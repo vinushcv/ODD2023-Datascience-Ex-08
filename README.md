@@ -174,6 +174,4 @@ plt.show()
 <img src="https://github.com/Janarthanan2/ODD2023-Datascience-Ex-08/assets/119393515/9515bcd2-15ba-453a-a02e-e3e6e3ea875c" height=300 width=350>
 
 # Inference:
-
-# RESULT:
-Hence, Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
+# RESULT: Hence, Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
